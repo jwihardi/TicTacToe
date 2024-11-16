@@ -11,6 +11,9 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
 
 ## Screenshots
 ![alt text](https://github.com/jhauptma12357/images/blob/main/image1.png)
+![alt text](https://github.com/jhauptma12357/images/blob/main/image2.png)
+![alt text](https://github.com/jhauptma12357/images/blob/main/image3.png)
+
 ### Prerequisites
 - **Java Development Kit (JDK)**: Version 8 or higher.
 - **LibGDX Setup Tool**: Use the [official setup tool](https://libgdx.com/dev/setup/) to generate your project structure.
