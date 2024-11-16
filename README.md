@@ -4,10 +4,10 @@
 A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgames.com/) framework.
 
 ## Features
-- **Two-player mode:** Play with a friend locally on the same device.
-- **Single-player mode:** Compete against yourself.
-- **Dynamic UI:** Responsive and clean user interface built with LibGDX.
-- **Restart and Reset options:** Easily replay the game or start a new match.
+- **Two-player:** Play with a friend locally on the same device.
+- **Single-player:** Compete against yourself.
+- **UI:** Responsive and clean user interface built with LibGDX.
+- **Restart and Reset options:** Easily restart/reset the game.
 
 ## Screenshots
 <div style="display: flex; justify-content: space-around;">
