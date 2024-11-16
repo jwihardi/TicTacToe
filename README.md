@@ -10,8 +10,7 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
 - **Restart and Reset options:** Easily replay the game or start a new match.
 
 ## Screenshots
-_(Add screenshots of your game interface here.)_
-
+![alt text](https://github.com/jhauptma12357/images/blob/main/image1.png)
 ### Prerequisites
 - **Java Development Kit (JDK)**: Version 8 or higher.
 - **LibGDX Setup Tool**: Use the [official setup tool](https://libgdx.com/dev/setup/) to generate your project structure.
