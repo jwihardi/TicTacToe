@@ -11,9 +11,9 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
 
 ## Screenshots
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/jhauptma12357/images/blob/main/image1.png" width="30%" />
-  <img src="https://github.com/jhauptma12357/images/blob/main/image2.png" width="30%" />
-  <img src="https://github.com/jhauptma12357/images/blob/main/image3.png" width="30%" />
+  <img src="https://github.com/jhauptma12357/images/blob/main/CMSC203-Montgomery-College/image1.png" width="30%" />
+  <img src="https://github.com/jhauptma12357/images/blob/main/CMSC203-Montgomery-College/image2.png" width="30%" />
+  <img src="https://github.com/jhauptma12357/images/blob/main/CMSC203-Montgomery-College/image3.png" width="30%" />
 </div>
 
 
