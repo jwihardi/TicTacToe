@@ -27,4 +27,5 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
 
 ### Possible Improvements
 - **Visuals**: The GUI/visuals should be independent of the actual logic of the game rather than being integrated directly into it. This would require completely redoing the project.
+- **Text**: The text looks very low resolution for some reason.
 - **Project Structure**: The project organization/structure could still be improved; some files seem unnecessary, and the hierarchy could be better organized.
