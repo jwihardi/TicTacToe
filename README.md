@@ -10,12 +10,12 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
 - **Restart and Reset options:** Easily restart/reset the game.
 
 ## Screenshots
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/jhauptma12357/images/blob/main/CMSC203-Montgomery-College/image1.png" width="30%" />
-  <img src="https://github.com/jhauptma12357/images/blob/main/CMSC203-Montgomery-College/image2.png" width="30%" />
-  <img src="https://github.com/jhauptma12357/images/blob/main/CMSC203-Montgomery-College/image3.png" width="30%" />
-</div>
 
+<div style="display: flex; justify-content: space-around;">
+  <img align="left" src="https://github.com/user-attachments/assets/7e1fea62-ac67-48a4-b5d7-919dddbcc982" width = "47%"/>
+  <img align = "right" src="https://github.com/user-attachments/assets/9d040013-7519-4078-a260-712dce36b8be" width= "47%"/>
+</div>  
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Prerequisites
 - **Java Development Kit (JDK)**: Version 8 or higher.
