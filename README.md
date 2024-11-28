@@ -17,7 +17,7 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
 ## ⧸⧸ Cloning TicTacToe
 
    ```bash
-   git clone https://github.com/Possibility-1B/Possibility.git
+   git clone https://github.com/jwihardi/TicTacToe
 ```
 
 
