@@ -1,15 +1,29 @@
-# TicTacToe
+# ⊞ TicTacToe
 
-## Overview
-A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgames.com/) framework.
+## 📜 Description
+A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgames.com/) framework to practice skills learned in OOP I.
 
-## Features
+### Features:
 - **Two-player:** Play with a friend locally on the same device.
+  
 - **Single-player:** Compete against yourself.
-- **UI:** Responsive and clean user interface built with LibGDX.
+
+- **GUI:** A GUI to display the game in a easy visual manner. 
+
 - **Restart and Reset options:** Easily restart/reset the game.
 
-## Screenshots
+---
+
+## ⧸⧸ Cloning TicTacToe
+
+   ```bash
+   git clone https://github.com/Possibility-1B/Possibility.git
+```
+
+
+---
+
+## 📸 Media
 
 <div style="display: flex; justify-content: space-around;">
   <img align="left" src="https://github.com/user-attachments/assets/7e1fea62-ac67-48a4-b5d7-919dddbcc982" width = "47%"/>
