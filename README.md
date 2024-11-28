@@ -49,6 +49,6 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
 
   ---
 
-  ## 📄 License
+## 📄 License
 
 This project is under the MIT [License](./LICENSE).
