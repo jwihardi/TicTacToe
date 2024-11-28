@@ -33,14 +33,14 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
 
 ---
 
-### 🧠 Learning Experience
+## 🧠 Learning Experience
 - **Project Structure**: Practiced organizing and setting up the project structure, including LibGDX's auto-generated files.
   
 - **LibGDX**: Learned how to use LibGDX functions and structure to create great visuals and handle inputs.
 
 ---
 
-### 💡 Possible Improvements
+## 💡 Possible Improvements
 - **Visuals**: The GUI/visuals should be independent of the actual logic of the game rather than being integrated directly into it. This would require completely redoing the project.
   
 - **Text**: The text looks very low resolution for some reason.
