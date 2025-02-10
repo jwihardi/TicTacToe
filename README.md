@@ -8,7 +8,7 @@ A simple TicTacToe game developed using the [LibGDX](https://libgdx.badlogicgame
   
 - **Single-player:** Compete against yourself.
 
-- **GUI:** A GUI to display the game in a easy visual manner. 
+- **GUI:** A GUI to display the game in an easy visual manner. 
 
 - **Restart and Reset options:** Easily restart/reset the game.
 
